@@ -46,17 +46,17 @@
 
 ## 📸 Screenshots
 
-| Home Screen                                                                                                    | AI Screen                                                                                                  | Meal Planner                                                                                                            |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| ![Home Screen](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/home_screen.png?raw=true) | ![AI Screen](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/AI_screen.png?raw=true) | ![Meal Planner](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/meal_planner_screen.png?raw=true) |
+| Home Screen                                 | AI Screen                               | Meal Planner                                         |
+| ------------------------------------------- | --------------------------------------- | ---------------------------------------------------- |
+| ![Home Screen](screenshots/home_screen.png) | ![AI Screen](screenshots/AI_screen.png) | ![Meal Planner](screenshots/meal_planner_screen.png) |
 
-| Favorites                                                                                                         | Profile                                                                                                       | Create Account                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| ![Favorites](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/favorites_screen.png?raw=true) | ![Profile](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/profile_screen.png?raw=true) | ![Create Account](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/create_account_screen.png?raw=true) |
+| Favorites                                      | Profile                                    | Create Account                                           |
+| ---------------------------------------------- | ------------------------------------------ | -------------------------------------------------------- |
+| ![Favorites](screenshots/favorites_screen.png) | ![Profile](screenshots/profile_screen.png) | ![Create Account](screenshots/create_account_screen.png) |
 
-| Sign In                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------ |
-| ![Sign In](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/signin_screen.png?raw=true) |
+| Sign In                                   |
+| ----------------------------------------- |
+| ![Sign In](screenshots/signin_screen.png) |
 
 ---
 
