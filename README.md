@@ -37,41 +37,26 @@
 
 ---
 
+## 📦 Project Structure
+
+- [Backend Repository (Node.js/Express)](https://github.com/pragyanmehrotra/recipal-backend)
+- [Backend README](https://github.com/pragyanmehrotra/recipal-backend/blob/main/README.md)
+- [Frontend Repository (React Native/Expo)](https://github.com/pragyanmehrotra/recipal-expo)
+- [Frontend README](https://github.com/pragyanmehrotra/recipal-expo/blob/main/README.md)
+
 ## 📸 Screenshots
 
-Below are current screenshots of the app UI:
+| Home Screen                                                                                                    | AI Screen                                                                                                  | Meal Planner                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| ![Home Screen](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/home_screen.png?raw=true) | ![AI Screen](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/AI_screen.png?raw=true) | ![Meal Planner](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/meal_planner_screen.png?raw=true) |
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="screenshots/home_screen.png" alt="Home Screen" width="350" /><br />Home Screen
-    </td>
-    <td align="center">
-      <img src="screenshots/AI_screen.png" alt="AI Screen" width="350" /><br />AI Screen
-    </td>
-    <td align="center">
-      <img src="screenshots/meal_planner_screen.png" alt="Meal Planner Screen" width="350" /><br />Meal Planner
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="screenshots/favorites_screen.png" alt="Favorites Screen" width="350" /><br />Favorites
-    </td>
-    <td align="center">
-      <img src="screenshots/profile_screen.png" alt="Profile Screen" width="350" /><br />Profile
-    </td>
-    <td align="center">
-      <img src="screenshots/create_account_screen.png" alt="Create Account Screen" width="350" /><br />Create Account
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="screenshots/signin_screen.png" alt="Sign In Screen" width="350" /><br />Sign In
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+| Favorites                                                                                                         | Profile                                                                                                       | Create Account                                                                                                              |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| ![Favorites](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/favorites_screen.png?raw=true) | ![Profile](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/profile_screen.png?raw=true) | ![Create Account](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/create_account_screen.png?raw=true) |
+
+| Sign In                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------ |
+| ![Sign In](https://github.com/pragyanmehrotra/recipal-expo/blob/main/screenshots/signin_screen.png?raw=true) |
 
 ---
 
