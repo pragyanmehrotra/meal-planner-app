@@ -1,6 +1,6 @@
 # 🍽️ ReciPal: AI-Powered Meal Planner & Recipe App
 
-![ReciPal Logo](recipal/assets/Recipal.png)
+![ReciPal Logo](screenshots/Recipal.png)
 
 ## 🚀 Overview
 
