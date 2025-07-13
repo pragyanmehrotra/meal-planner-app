@@ -1,6 +1,6 @@
 # 🍽️ ReciPal: AI-Powered Meal Planner & Recipe App
 
-![ReciPal Logo](recipal/assets/icon.png)
+![ReciPal Logo](recipal/assets/Recipal.png)
 
 ## 🚀 Overview
 
@@ -37,37 +37,41 @@
 
 ---
 
-## 📸 Demo & Screenshots
+## 📸 Screenshots
 
-> _Replace the image links below with your own screenshots!_
+Below are current screenshots of the app UI:
 
-### 🏠 Home & Browse Recipes
-
-![Home Screen](recipal/assets/images/home.png)
-
-### 🍳 Recipe Details & Extraction
-
-![Recipe Details](recipal/assets/images/recipe-details.png)
-
-### 📅 Meal Planner
-
-![Meal Planner](recipal/assets/images/meal-planner.png)
-
-### 🛒 Grocery Lists
-
-![Grocery List](recipal/assets/images/grocery-list.png)
-
-### ❤️ Favorites
-
-![Favorites](recipal/assets/images/favorites.png)
-
-### 👤 Profile & Premium
-
-![Profile](recipal/assets/images/profile.png)
-
-### 💳 Stripe Checkout
-
-![Stripe Checkout](recipal/assets/images/stripe-checkout.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="recipal/assets/images/home_screen.png" alt="Home Screen" width="350" height="350" style="object-fit:cover;" /><br />Home Screen
+    </td>
+    <td align="center">
+      <img src="recipal/assets/images/AI_screen.png" alt="AI Screen" width="350" height="350" style="object-fit:cover;" /><br />AI Screen
+    </td>
+    <td align="center">
+      <img src="recipal/assets/images/meal_planner_screen.png" alt="Meal Planner Screen" width="350" height="350" style="object-fit:cover;" /><br />Meal Planner
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="recipal/assets/images/favorites_screen.png" alt="Favorites Screen" width="350" height="350" style="object-fit:cover;" /><br />Favorites
+    </td>
+    <td align="center">
+      <img src="recipal/assets/images/profile_screen.png" alt="Profile Screen" width="350" height="350" style="object-fit:cover;" /><br />Profile
+    </td>
+    <td align="center">
+      <img src="recipal/assets/images/create_account_screen.png" alt="Create Account Screen" width="350" height="350" style="object-fit:cover;" /><br />Create Account
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="recipal/assets/images/signin_screen.png" alt="Sign In Screen" width="350" height="350" style="object-fit:cover;" /><br />Sign In
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -226,4 +230,4 @@ For support, questions, or to show off your own meal plans:
 
 ---
 
-> _Built with ❤️ by [Your Name] — Happy Cooking!_
+> _Built with ❤️ by Pragyan Mehrotra — Happy Cooking!_
