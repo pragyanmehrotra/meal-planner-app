@@ -54,9 +54,9 @@
 | ---------------------------------------------- | ------------------------------------------ | -------------------------------------------------------- |
 | ![Favorites](screenshots/favorites_screen.png) | ![Profile](screenshots/profile_screen.png) | ![Create Account](screenshots/create_account_screen.png) |
 
-| Sign In                                   |
-| ----------------------------------------- |
-| ![Sign In](screenshots/signin_screen.png) |
+| Sign In                                                               |
+| --------------------------------------------------------------------- |
+| <img src="screenshots/signin_screen.png" alt="Sign In" width="350" /> |
 
 ---
 
