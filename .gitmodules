@@ -1,0 +1,6 @@
+[submodule "recipal-backend"]
+	path = backend
+	url = https://github.com/pragyanmehrotra/recipal-backend
+[submodule "recipal-expo"]
+	path = recipal
+	url = https://github.com/pragyanmehrotra/recipal-expo
