@@ -14,14 +14,15 @@
 - **Full-Stack Architecture**: Node.js/Express backend, React Native (Expo) frontend
 - **Modern UI/UX**: Beautiful, responsive design with Tamagui and custom components
 - **Meal Planning**: Drag-and-drop meal planner with custom sections and days
-- **Grocery Lists**: Auto-generate and manage grocery lists from your meal plans
 - **Favorites**: Save and manage your favorite recipes
 - **Premium Subscriptions**: Stripe-powered $2.99/mo premium plan with webhook automation
 - **User Auth**: Secure JWT authentication, email verification, password reset
 - **Notifications**: (Pluggable) push notification support
-- **Custom Recipes**: Add your own recipes if not found in the database
 - **Offline Support**: Local storage for meal plans and recipes
 - **Production-Ready**: Environment variable management, robust error handling, and more
+
+## 🎥 Demo
+![ReciPal App Demo](screenshots/recipal_demo.gif)
 
 ---
 
